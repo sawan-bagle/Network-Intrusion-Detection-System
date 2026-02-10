@@ -77,7 +77,7 @@ How to Run
 
 1.Clone the repository:
 
-git clone https://github.com/your-username/nids-nsl-kdd.git
+git clone https://github.com/sawan-bagle/nids-nsl-kdd.git
 
 
 2.Open the notebook:
